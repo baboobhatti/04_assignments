@@ -1,7 +1,0 @@
-Project.1: https://colab.research.google.com/drive/1e069LYzHpnS_2_7pNBdl8Ro1mDSbbL-L#scrollTo=cdvaQxsUpjkP
-Project.2: https://colab.research.google.com/drive/1e069LYzHpnS_2_7pNBdl8Ro1mDSbbL-L#scrollTo=rfmTDIihPrVd
-Project.3: https://colab.research.google.com/drive/1e069LYzHpnS_2_7pNBdl8Ro1mDSbbL-L#scrollTo=kJkDvaqvP-28
-Project.4: https://colab.research.google.com/drive/1e069LYzHpnS_2_7pNBdl8Ro1mDSbbL-L#scrollTo=TEYQZ9PVMBvK
-Project.5: https://colab.research.google.com/drive/1e069LYzHpnS_2_7pNBdl8Ro1mDSbbL-L#scrollTo=nw0LAEGkeAys
-Project.6: https://colab.research.google.com/drive/1e069LYzHpnS_2_7pNBdl8Ro1mDSbbL-L#scrollTo=dj6OB0m_iGWB
-Project.7: https://colab.research.google.com/drive/1e069LYzHpnS_2_7pNBdl8Ro1mDSbbL-L#scrollTo=mjQ7eqbXr8RQ
